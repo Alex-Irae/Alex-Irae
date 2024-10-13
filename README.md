@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alex-Irae
 - 👀 I’m interested in BCI, and software engineering
 - 🌱 I’m currently learning docker and tensorflow
-- 📫 Send me a mail
+- 📫 Send me an email
 - ⚡ Fun fact: I dont dislike what I do 😃
 
 <!---

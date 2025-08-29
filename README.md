@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Irae
-- 👀 I’m interested in BCI, and software engineering
-- 🌱 I’m currently learning docker and tensorflow
+- 👀 I’m interested in Ai foudnation model applied to ehalthcare and medicine
+- 🌱 Im currently perfecting my pytorch skills
 - 📫 Send me an email
 - ⚡ Fun fact: I dont dislike what I do 😃
 

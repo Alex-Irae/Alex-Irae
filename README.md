@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Irae
-- 👀 I’m interested in Ai foudnation model applied to ehalthcare and medicine
-- 🌱 Im currently perfecting my pytorch skills
+- 👀 I’m interested in Ai foundation model applied to healthcare and medicine
+- 🌱 Im currently polishing my skills
 - 📫 Send me an email
 - ⚡ Fun fact: I dont dislike what I do 😃
 
